@@ -1,0 +1,81 @@
+barangay,geog_district,legislative_district,brgy_cap,pop_2015,pop_2010,chg,code,urban_or_rural
+Adlaon,North,I,Nieves B. Narra,"4,028",3647.0,+10.45%,072217001,Rural
+Agsungot,North,I,Pedro P. Damaolao,"2,290",1981.0,+15.60%,072217002,Rural
+Apas,North,I,Virgil A. Cabigon,"24,591",22566.0,+8.97%,072217003,Urban
+Babag,South,II,Cesar R. Dolorito,"4,452",4451.0,+0.02%,072217004,Rural
+Bacayan,North,I,Zenaida E. Colina,"15,919",14021.0,+13.54%,072217006,Urban
+Banilad,North,I,Dennes R. Tabar,"7,890",9903.0,−20.33%,072217007,Urban
+Basak Pardo,South,II,Catalina A. Cabardo,"19,415",17756.0,+9.34%,072217005,Urban
+Basak San Nicolas,South,II,Norman A. Navarro,"35,422",34313.0,+3.23%,072217008,Urban
+Binaliw,North,I,Viviane O. Ruste,"3,417",2722.0,+25.53%,072217010,Rural
+Bonbon,South,II,Eduardo R. Cabriana,"5,632",5014.0,+12.33%,072217011,Urban
+Budlaan,North,I,Gino B. Antolihao,"5,316",5100.0,+4.24%,072217013,Urban
+Buhisan,South,II,Gremar C. Barete,"14,977",13032.0,+14.92%,072217014,Urban
+Bulacao,South,II,Rodrigo D. Jabellana,"30,450",26820.0,+13.53%,072217015,Urban
+Buot,South,II,Richard L. Bacayan Sr.,"2,475",2203.0,+12.35%,072217016,Rural
+Busay,North,I,Maria Christia A. Famador,"13,048",11335.0,+15.11%,072217017,Urban
+Calamba,South,II,Victor B. Quijano Jr.,"11,177",12417.0,−9.99%,072217018,Urban
+Cambinocot,North,I,Reynald A. Lauron,"3,099",2658.0,+16.59%,072217019,Rural
+Capitol Site,North,I,Manuel G. Guanzon,"11,307",2658.0,+325.40%,072217020,Urban
+Carreta,North,I,Mariano V. Ando,"12,557",11211.0,+12.01%,072217021,Urban
+Cogon Pardo,South,II,Harry R. Eran,"21,276",7805.0,+172.59%,072217024,Urban
+Cogon Ramos,North,I,Omar D. Durano,"3,339",3337.0,+0.06%,072217023,Urban
+Day‑as,North,I,Freddie T. Esmas,"4,817",4851.0,−0.70%,072217025,Urban
+Duljo Fatima,South,II,Elmer L. Abella,"17,664",16387.0,+7.79%,072217027,Urban
+Ermita,North,I,Mark Rizaldy V. Miral,"8,451",8291.0,+1.93%,072217028,Urban
+Guadalupe,South,II,Michael M. Gacasan,"61,238",60400.0,+1.39%,072217029,Urban
+Guba,North,I,Orlan B. Herrera,"4,976",4771.0,+4.30%,072217030,Rural
+Hipodromo,North,I,Rupinto B. Bacolod,"9,684",9673.0,+0.11%,072217031,Urban
+Inayawan,South,II,Kirk Bryan J. Repollo,"30,707",28329.0,+8.39%,072217032,Urban
+Kalubihan,North,I,Rex Y. Millan,866,563.0,+53.82%,072217033,Urban
+Kalunasan,South,II,Nunilon S. Monares Jr.,"26,756",22737.0,+17.68%,072217034,Urban
+Kamagayan,North,I,Raquel E. Avila,"2,170",2061.0,+5.29%,072217035,Urban
+Kamputhaw,North,I,Jessica P. Cadungog,"20,030",21765.0,−7.97%,072217036,Urban
+Kasambagan,North,I,Franklyn O. Ong,"8,428",8389.0,+0.46%,072217037,Urban
+Kinasang‑an Pardo,South,II,Susan B. Enriquez,"15,185",14382.0,+5.58%,072217038,Urban
+Labangon,South,II,Victor M. Buendia,"33,477",31643.0,+5.80%,072217040,Urban
+Lahug,North,I,Hazel Ann M. Empleo,"38,584",35157.0,+9.75%,072217041,Urban
+Lorega‑San Miguel,North,I,Fritzgerald D. Herrera,"11,873",11178.0,+6.22%,072217042,Urban
+Lusaran,North,I,Agustin P. Partulan,"2,931",2530.0,+15.85%,072217043,Rural
+Luz,North,I,Ronilo M. Sab-a,"18,313",16923.0,+8.21%,072217044,Urban
+Mabini,North,I,Richard M. Adolfo,"1,909",1649.0,+15.77%,072217045,Rural
+Mabolo,North,I,Frank M. Gajudo,"22,008",21842.0,+0.76%,072217046,Urban
+Malubog,North,I,Dennis M. Dabuco,"2,568",2441.0,+5.20%,072217048,Rural
+Mambaling,South,II,Gines N. Abellana,"32,564",32162.0,+1.25%,072217049,Urban
+Pahina Central,North,I,Carlo V. Yap,"5,258",5227.0,+0.59%,072217050,Urban
+Pahina San Nicolas,South,II,Arnulfo R. Cambonga,"3,196",1409.0,+126.83%,072217051,Urban
+Pamutan,South,II,Ronaldo C. Labitad,"1,862",1807.0,+3.04%,072217052,Rural
+Pari-an,North,I,Jeremias T. Nuñez,"1,574",1503.0,+4.72%,072217054,Urban
+Paril,North,I,Neresa Villa W. Doncillo,"1,479",1412.0,+4.75%,072217055,Rural
+Pasil,South,II,Julius O. Guioguio,"8,593",8591.0,+0.02%,072217056,Urban
+Pit-os,North,I,Nilo C. Tariman,"6,244",5185.0,+20.42%,072217057,Urban
+Poblacion Pardo,South,II,Archie Araw–Araw,"12,596",12103.0,+4.07%,072217053,Urban
+Pulangbato,North,I,Marlene B. Macua,"5,988",5539.0,+8.11%,072217059,Rural
+Pung-ol Sibugay,South,II,Jerson A. Cadampog,"2,556",2357.0,+8.44%,072217060,Rural
+Punta Princesa,South,II,Eleno M. Andales Jr.,"22,369",22270.0,+0.44%,072217062,Urban
+Quiot,South,II,Pancrasio I. Esparis,"24,200",21659.0,+11.73%,072217063,Urban
+Sambag I,North,I,Maria Ailien R. Guardo,"13,434",11865.0,+13.22%,072217064,Urban
+Sambag II,North,I,Ryan P. Aznar,"11,223",13526.0,−17.03%,072217065,Urban
+San Antonio,North,I,Daido Stephen D. Abcede Jr.,"1,928",2010.0,−4.08%,072217066,Urban
+San Jose,North,I,Joventino A. Ardaba,"6,870",5704.0,+20.44%,072217067,Urban
+San Nicolas Proper,South,II,Clifford Jude G. Niñal,"6,694",6240.0,+7.28%,072217068,Urban
+San Roque,North,I,Virginia Abenoja,"4,444",4870.0,−8.75%,072217069,Urban
+Santa Cruz,North,I,Jerome B. Lim,"2,316",2522.0,−8.17%,072217070,Urban
+Santo Niño,North,I,Lourdes R. Ramirez,"1,213",1568.0,−22.64%,072217022,Urban
+Sapangdaku,South,II,Jovito S. Ladrazo,"7,594",6904.0,+9.99%,072217077,Urban
+Sawang Calero,South,II,Sergio S. Ocaña,"8,259",7831.0,+5.47%,072217071,Urban
+Sinsin,South,II,Aurelio R. Laspoña,"2,161",2111.0,+2.37%,072217073,Rural
+Sirao,North,I,Flaviano C. Gabunada Jr.,"3,456",3871.0,−10.72%,072217074,Rural
+Suba,South,II,Joel S. Sable,"11,026",9628.0,+14.52%,072217075,Urban
+Sudlon I,South,II,Dante M. Tabucal,"2,777",2461.0,+12.84%,072217076,Rural
+Sudlon II,South,II,Prescillo L. Alborez,"3,913",3579.0,+9.33%,072217088,Rural
+T. Padilla (Villa Gonzalo),North,I,Michael L. Ralota,"7,646",8113.0,−5.76%,072217078,Urban
+Tabunan,South,II,Nerio B. Pador,"2,138",1951.0,+9.58%,072217079,Rural
+Tagba-o,South,II,Ana C. Tabal,"1,767",1951.0,−9.43%,072217080,Rural
+Talamban,North,I,Dario B. Arcilla,"32,139",28278.0,+13.65%,072217081,Urban
+Taptap,North,I,Brian M. Bontuyan,"2,093",1741.0,+20.22%,072217082,Rural
+Tejero,North,I,Hermogenes A. Galang Jr.,"14,496",15204.0,−4.66%,072217083,Urban
+Tinago,North,I,Domingo V. Lopez,"6,743",6554.0,+2.88%,072217084,Urban
+Tisa,South,II,Renato I. Pacaña,"37,766",35600.0,+6.08%,072217085,Urban
+To-ong,South,II,Alejandro D. Borres,"4,178",3986.0,+4.82%,072217086,Rural
+Zapatera,North,I,Francisco D. Benedicto,"3,146",3317.0,−5.16%,072217084,Urban
